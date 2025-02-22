@@ -1,7 +1,7 @@
 #    Project: Pi-hole Mordor World
 #
 #    Resumen: List Domain exclude from PiHole
-#    https://github.com/MordorWorld/Pi-hole/blob/main/List.txt
+#    https://github.com/MordorWorld/Pi-hole/blob/main/BlackList.txt
 # ===============================================================
 5hz.org
 www.qq.com
