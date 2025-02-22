@@ -1,12 +1,7 @@
 #    Project: Pi-hole Mordor World
 #
 #    Resumen: List Domain exclude from PiHole
-#
-#
-# Fetch the latest version of this file: https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
-# Project home page: https://github.com/StevenBlack/hosts
-# Project releases: https://github.com/StevenBlack/hosts/releases
-#
+#    https://github.com/MordorWorld/Pi-hole/blob/main/List.txt
 # ===============================================================
 0.0.0.0 5hz.org
 0.0.0.0 www.qq.com
