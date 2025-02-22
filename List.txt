@@ -1,0 +1,36 @@
+#    Project: Pi-hole Mordor World
+#
+#    Resumen: List Domain exclude from PiHole
+#
+#
+# Fetch the latest version of this file: https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
+# Project home page: https://github.com/StevenBlack/hosts
+# Project releases: https://github.com/StevenBlack/hosts/releases
+#
+# ===============================================================
+0.0.0.0 5hz.org
+0.0.0.0 www.qq.com
+0.0.0.0 pizzaseo.com
+0.0.0.0 callhome.citrix.com
+0.0.0.0 etoro.com	
+0.0.0.0 mulstersad.co.in	
+0.0.0.0 munatert.co.in
+0.0.0.0 click.email.microsoftemail.com
+0.0.0.0 maxthon.com
+0.0.0.0 imkirh.com
+0.0.0.0 adultgames.space	
+0.0.0.0 mediasama.com	
+0.0.0.0 etoro.com
+0.0.0.0 moviefaux.com
+0.0.0.0 brazzersnetwork.com
+0.0.0.0 tauptaicoapo.com
+0.0.0.0 mediasama.com
+0.0.0.0 saehes.co.in
+0.0.0.0 jerkmate.net
+0.0.0.0 downloadgx.net
+0.0.0.0 saehes.co.in	
+0.0.0.0 phaustighoothie.com	
+0.0.0.0 www.opera.com	
+0.0.0.0 www.toobit.com	
+0.0.0.0 egraglauvoathog.com	
+0.0.0.0 miserly-phone.com
