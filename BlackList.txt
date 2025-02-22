@@ -2,6 +2,7 @@
 #
 #    Resumen: List Domain exclude from PiHole
 #    https://github.com/MordorWorld/Pi-hole/blob/main/BlackList.txt
+#    RAW: https://raw.githubusercontent.com/MordorWorld/Pi-hole/refs/heads/main/BlackList.txt
 # ===============================================================
 5hz.org
 www.qq.com
