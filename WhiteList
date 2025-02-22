@@ -1,3 +1,8 @@
+#    Project: Pi-hole Mordor World
+#
+#    Resumen: List Domain Permited from PiHole
+#    https://github.com/MordorWorld/Pi-hole/blob/main/WhiteList.txt
+# ===============================================================
 info.devolutions.net
 query.prod.cms.rt.microsoft.com
 store.ui.com
